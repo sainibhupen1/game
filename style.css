@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: rgb(230, 241, 230);
+}
+
+
+h1 {
+    font-size: 45px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    color: rgb(197, 72, 72);
+}
+
+
+.choice-button {
+    height: 100px;
+    width: 100px;
+    border: none;
+    margin: 10px;
+    background-color: rgb(71, 183, 231);
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.choice-image {
+    height: 75px;
+}
+
+.Reset {
+    margin-top: 30px;
+    border: 2px solid rgb(91, 85, 85);
+    border-radius: 10px;
+    background-color: rgb(222, 138, 184);
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 20px;
+}
